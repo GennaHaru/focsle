@@ -1,0 +1,21 @@
+{
+  "short_name": "Shanty Book",
+  "name": "Fo'c'sle Shanty and Folk Songbook",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#edeede",
+  "display": "standalone",
+  "theme_color": "#3498db",
+  "description": "Sea Shanty & Folk Song Session Songbook for The Fo'c'sle."
+}
