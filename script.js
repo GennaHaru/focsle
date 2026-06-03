@@ -128,7 +128,7 @@ async function loadSongs() {
             const song = songObj.title;
             const id = song.toLowerCase().replace(/[^a-z0-9]/g, '-');
             try {
-                const res = await fetch(`songs/${encodeURIComponent(song)}.txt`);
+                cconst res = await fetch(`./songs/${encodeURIComponent(song)}.txt`);
                 const text = await res.text();
                 const lines = text.split('\n');
                 const body = lines[0].startsWith("Title:") ? lines.slice(1).join('\n') : text;
