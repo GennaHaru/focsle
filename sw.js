@@ -2,7 +2,7 @@ const cacheName = 'focsle-v12';
 const assets = [
   './',
   './index.html',
-  './style.css',
+  './style.css?v=11',
   './script.js',
   './Logo.png',
   './SNAS.png',
