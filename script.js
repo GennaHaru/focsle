@@ -80,6 +80,20 @@ function clearAllFavorites() {
     }
 }
 
+// Kill any duplicate or misscoped service workers before running the app
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(registrations => {
+        for (let registration of registrations) {
+            // If the worker isn't explicitly scoped to your project subfolder, kill it
+            if (!registration.scope.includes('/focsle/')) {
+                registration.unregister().then(() => {
+                    console.log('Cleared misscoped worker:', registration.scope);
+                });
+            }
+        }
+    });
+}
+
 // --- UPDATED LOAD & FILTER ---
 
 async function loadSongs() {
