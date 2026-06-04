@@ -1,4 +1,4 @@
-const cacheName = 'focsle-v14';
+const cacheName = 'focsle-v15';
 const assets = [
   './',
   './index.html',
@@ -18,11 +18,20 @@ self.addEventListener('install', evt => {
   );
 });
 
-// Fetching assets
+// Fetching assets - Smart matching for query strings and subdirectories
 self.addEventListener('fetch', evt => {
+  // Create a clean URL object from the request
+  const requestUrl = new URL(evt.request.url);
+
+  // Strip query parameters (?v=11) so it matches the asset array cache key
+  const cleanPath = requestUrl.pathname.endsWith('/')
+    ? './'
+    : './' + requestUrl.pathname.split('/').pop();
+
   evt.respondWith(
-    caches.match(evt.request).then(rec => {
-      return rec || fetch(evt.request);
+    caches.match(cleanPath).then(cachedResponse => {
+      // Return the cached file if found, otherwise hit the network
+      return cachedResponse || fetch(evt.request);
     })
   );
 });
