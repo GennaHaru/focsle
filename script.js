@@ -112,14 +112,13 @@ async function loadSongs() {
             const firstChar = cleanTitle.charAt(0).toUpperCase();
 
             if (firstChar !== currentLetter) {
-                currentLetter = firstChar;
-                if (insideList) {
-                    tocHtml += '</ul>';
-                }
-                tocHtml += `<div class="toc-letter-header">${currentLetter}</div>`;
-                tocHtml += '<ul>';
-                insideList = true;
-            }
+    currentLetter = firstChar;
+    if (insideList) {
+        tocHtml += '</ul>';
+    }
+    tocHtml += '<ul>';
+    insideList = true;
+}
 
             const tagLabels = songObj.tags.map(t => `<span class="toc-tag">${t}</span>`).join('');
 
