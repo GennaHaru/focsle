@@ -80,19 +80,7 @@ function clearAllFavorites() {
     }
 }
 
-// Kill any duplicate or misscoped service workers before running the app
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistrations().then(registrations => {
-        for (let registration of registrations) {
-            // If the worker isn't explicitly scoped to your project subfolder, kill it
-            if (!registration.scope.includes('/focsle/')) {
-                registration.unregister().then(() => {
-                    console.log('Cleared misscoped worker:', registration.scope);
-                });
-            }
-        }
-    });
-}
+
 
 // --- UPDATED LOAD & FILTER ---
 
@@ -184,9 +172,7 @@ async function loadSongs() {
 function filterSongs() {
     const query = document.getElementById('songSearch').value.toLowerCase();
     const selectedTag = document.getElementById('tagFilter').value;
-
-    // UPDATED SELECTOR: Grabs both the list items and the letter header divs
-    const tocItems = document.querySelectorAll('#toc li, #toc .toc-letter-header');
+    const tocItems = document.querySelectorAll('#toc li');
     const sections = document.querySelectorAll('.song-chunk');
     const emptyMsg = document.getElementById('empty-fav-message');
 
@@ -208,33 +194,6 @@ function filterSongs() {
             s.style.display = 'none';
         }
     });
-
-    // Update TOC display
-    tocItems.forEach(item => {
-        // Updated check to catch the actual class name used in loadSongs
-        if (item.classList.contains('toc-letter-header')) {
-            // Hide letter headers if any filter is active
-            item.style.display = (query === '' && selectedTag === '' && !favoritesOnlyMode) ? '' : 'none';
-        } else {
-            const title = item.textContent.toLowerCase();
-            const id = item.querySelector('a')?.getAttribute('href').substring(1);
-            const isFav = favorites.includes(id);
-            const songTags = JSON.parse(item.getAttribute('data-tags') || '[]');
-
-            const matchesSearch = title.includes(query);
-            const matchesTag = selectedTag === "" || songTags.includes(selectedTag);
-            const matchesFavFilter = !favoritesOnlyMode || isFav;
-
-            item.style.display = (matchesSearch && matchesTag && matchesFavFilter) ? '' : 'none';
-        }
-    });
-
-    if (favoritesOnlyMode && visibleCount === 0 && query === '' && selectedTag === '') {
-        emptyMsg.style.display = 'block';
-    } else {
-        emptyMsg.style.display = 'none';
-    }
-}
 
     // Update TOC display
     tocItems.forEach(li => {
