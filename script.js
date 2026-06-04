@@ -89,14 +89,14 @@ async function loadSongs() {
     applySettings();
 
     try {
-        // Change: Fetching the tagged version
         const response = await fetch('songs_tagged.json');
         allSongsData = await response.json();
 
-        let tocHtml = '<ul>';
+        let tocHtml = '';
         let currentLetter = '';
+        let insideList = false;
 
-        // Generate Table of Contents with Tags
+        // Generate Table of Contents with proper nested structures
         allSongsData.forEach(songObj => {
             const song = songObj.title;
             const id = song.toLowerCase().replace(/[^a-z0-9]/g, '-');
@@ -111,17 +111,26 @@ async function loadSongs() {
 
             if (firstChar !== currentLetter) {
                 currentLetter = firstChar;
-                tocHtml += `<li class="toc-letter-header">${currentLetter}</li>`;
+                if (insideList) {
+                    tocHtml += '</ul>';
+                }
+                tocHtml += `<div class="toc-letter-header">${currentLetter}</div>`;
+                tocHtml += '<ul>';
+                insideList = true;
             }
 
-            // Generate tag labels for the TOC
             const tagLabels = songObj.tags.map(t => `<span class="toc-tag">${t}</span>`).join('');
 
             tocHtml += `<li class="${isFav ? 'is-favorite' : ''}" data-tags='${JSON.stringify(songObj.tags)}'>
                 <a href="#${id}">${song}</a>${tagLabels}<span class="toc-heart"> ❤️</span>
             </li>`;
         });
-        toc.innerHTML = tocHtml + '</ul>';
+
+        if (insideList) {
+            tocHtml += '</ul>';
+        }
+
+        toc.innerHTML = tocHtml;
 
         // Load Lyrics
         const songPromises = allSongsData.map(async (songObj) => {
