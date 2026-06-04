@@ -1,4 +1,4 @@
-const cacheName = 'focsle-v7';
+const cacheName = 'focsle-v8';
 const assets = [
   './',
   './index.html',
