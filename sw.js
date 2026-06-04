@@ -1,4 +1,4 @@
-const cacheName = 'focsle-v12';
+const cacheName = 'focsle-v13';
 const assets = [
   './',
   './index.html',
@@ -23,6 +23,19 @@ self.addEventListener('fetch', evt => {
   evt.respondWith(
     caches.match(evt.request).then(rec => {
       return rec || fetch(evt.request);
+    })
+  );
+});
+
+// Activate Service Worker and clear old caches
+self.addEventListener('activate', evt => {
+  evt.waitUntil(
+    caches.keys().then(keys => {
+      return Promise.all(
+        keys
+          .filter(key => key !== cacheName)
+          .map(key => caches.delete(key))
+      );
     })
   );
 });
