@@ -118,7 +118,7 @@
   },
   {
     "title": "Barrett’s Privateers",
-    "tags": []
+    "tags": ["North American", "Maritime", "Chorus-Heavy"]
   },
   {
     "title": "Becalmed",
@@ -182,7 +182,7 @@
   },
   {
     "title": "Blue-Eyed Nancy",
-    "tags": []
+    "tags": ["English", "Ballad"]
   },
   {
     "title": "Bold Riley",
@@ -330,15 +330,15 @@
   },
   {
     "title": "Come All Ye Tonguers",
-    "tags": []
+    "tags": ["Maritime", "Chorus-Heavy"]
   },
   {
     "title": "Come and be Welcome",
-    "tags": []
+    "tags": ["Chorus-Heavy", "Ballad"]
   },
   {
     "title": "Come O’er the Stream Charlie",
-    "tags": []
+    "tags": ["Scottish", "Rebel / Political"]
   },
   {
     "title": "Come, Landlord Fill the Flowing Bowl",
@@ -402,7 +402,7 @@
   },
   {
     "title": "Donald, Where's your Troosers",
-    "tags": []
+    "tags": ["Scottish", "Humorous", "Chorus-Heavy"]
   },
   {
     "title": "Donkey Riding",
@@ -430,7 +430,7 @@
   },
   {
     "title": "Downed and Drowned",
-    "tags": []
+    "tags": ["Maritime", "Contemporary"]
   },
   {
     "title": "Drink Up Thy Zider",
@@ -450,7 +450,7 @@
   },
   {
     "title": "Drunken Sailor (v2)",
-    "tags": []
+    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
   },
   {
     "title": "El Fusilado",
@@ -653,7 +653,7 @@
   },
   {
     "title": "Hard on the Beach Oar - Shawnee Town",
-    "tags": []
+    "tags": ["North American", "Maritime", "Shanty"]
   },
   {
     "title": "Hard Times Come Again No More",
@@ -818,7 +818,7 @@
   },
   {
     "title": "In Kirkintilloch There's Nae Pubs",
-    "tags": []
+    "tags": ["Scottish", "Humorous", "Drinking Song"]
   },
   {
     "title": "It’s a Long Way to Tipperary",
@@ -853,7 +853,7 @@
   },
   {
     "title": "Jim’s Bike",
-    "tags": []
+    "tags": ["Australian", "Humorous", "Contemporary Folk"]
   },
   {
     "title": "Johnny Be Fair",
@@ -903,7 +903,7 @@
   },
   {
     "title": "Le Capitaine De Saint-Malo",
-    "tags": []
+    "tags": ["French", "Maritime", "Shanty"]
   },
   {
     "title": "Leave Her Johnny",
@@ -915,11 +915,11 @@
   },
   {
     "title": "Lee Fore Brace",
-    "tags": []
+    "tags": ["Maritime", "Shanty"]
   },
   {
     "title": "Let the Bulgine Run - Eliza Lee",
-    "tags": []
+    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
   },
   {
     "title": "Lifeboat Man",
@@ -984,7 +984,7 @@
   },
   {
     "title": "MacPherson's Rant",
-    "tags": []
+    "tags": ["Scottish", "Rebel / Political", "Ballad"]
   },
   {
     "title": "Maggie May",
@@ -1055,10 +1055,6 @@
     ]
   },
   {
-    "title": "Make And Break Harbour",
-    "tags": []
-  },
-  {
     "title": "Man of the Earth",
     "tags": [
       "English",
@@ -1091,7 +1087,7 @@
   },
   {
     "title": "Mining for Gold - Chemical Worker's Song",
-    "tags": []
+    "tags": ["English", "Hard Times", "Rebel / Political"]
   },
   {
     "title": "Molly Malone",
@@ -1318,11 +1314,11 @@
   },
   {
     "title": "Padstow Farewell",
-    "tags": []
+    "tags": ["English", "Maritime", "Chorus-Heavy"]
   },
   {
     "title": "Pass Around the Grog Me Boys",
-    "tags": []
+    "tags": ["Drinking Song", "Maritime", "Chorus-Heavy"]
   },
   {
     "title": "Peat Fire Flame",
@@ -1364,7 +1360,7 @@
   },
   {
     "title": "Pride of the White Star Line",
-    "tags": []
+    "tags": ["Irish", "Maritime", "Ballad"]
   },
   {
     "title": "Pump Shanty",
@@ -1398,7 +1394,7 @@
   },
   {
     "title": "Rattle ‘Em Winches",
-    "tags": []
+    "tags": ["Maritime", "Chorus-Heavy"]
   },
   {
     "title": "Red is the Rose",
@@ -1509,7 +1505,7 @@
   },
   {
     "title": "Rueben Ranzo",
-    "tags": []
+    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
   },
   {
     "title": "Running Down to Cuba",
@@ -1644,11 +1640,11 @@
   },
   {
     "title": "Skye Boat Song, The (v1)",
-    "tags": []
+    "tags": ["Scottish", "Ballad", "Rebel / Political"]
   },
   {
     "title": "Skye Boat Song, The (v2)",
-    "tags": []
+    "tags": ["Scottish", "Ballad", "Rebel / Political"]
   },
   {
     "title": "Sloop John B",
@@ -1714,8 +1710,7 @@
   },
   {
     "title": "Suez Canal",
-    "tags": []
-  },
+    "tags": ["Maritime", "Shanty", "Contemporary"]
   {
     "title": "Sugar in the Hold",
     "tags": [
@@ -1725,7 +1720,7 @@
   },
   {
     "title": "Tatties an’ Herrin’",
-    "tags": []
+    "tags": ["Scottish", "Hard Times"]
   },
   {
     "title": "Ten Thousand Miles Away",
@@ -2110,7 +2105,7 @@
   },
   {
     "title": "The Parting Song",
-    "tags": []
+    "tags": ["Ballad", "Chorus-Heavy"]
   },
   {
     "title": "The Rattling Bog",
@@ -2145,7 +2140,7 @@
   },
   {
     "title": "The Sailor Loves the Botte-O",
-    "tags": []
+    "tags": ["Australian", "Maritime", "Drinking Song"]
   },
   {
     "title": "The Shoals of Herring",
@@ -2247,7 +2242,7 @@
   },
   {
     "title": "Tom Paine’s Bones",
-    "tags": []
+    "tags": ["English", "Rebel / Political", "Chorus-Heavy"]
   },
   {
     "title": "Travelling through the Storm",
@@ -2258,7 +2253,7 @@
   },
   {
     "title": "Turmut Hoer, The",
-    "tags": []
+    "tags": ["English", "Humorous"]
   },
   {
     "title": "Turning Steel",
@@ -2284,7 +2279,7 @@
   },
   {
     "title": "Two Sisters",
-    "tags": []
+    "tags": ["English", "Myth & Legend", "Ballad"]
   },
   {
     "title": "Unison in Harmony",
@@ -2295,7 +2290,7 @@
   },
   {
     "title": "Up And Away",
-    "tags": []
+    "tags": ["Contemporary Folk"]
   },
   {
     "title": "Wagon Wheel",
@@ -2329,7 +2324,7 @@
   },
   {
     "title": "Where Am I to Go Me Johnnies",
-    "tags": []
+    "tags": ["Maritime", "Shanty"]
   },
   {
     "title": "Whiskey in the Jar",
@@ -2372,7 +2367,7 @@
   },
   {
     "title": "Wild Goose Shanty",
-    "tags": []
+    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
   },
   {
     "title": "Wild Mountain Thyme",
@@ -2415,7 +2410,7 @@
   },
   {
     "title": "Ye Jacobite's by Name",
-    "tags": []
+    "tags": ["Scottish", "Rebel / Political"]
   },
   {
     "title": "Yellow Submarine",
