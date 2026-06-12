@@ -53,6 +53,13 @@
     ]
   },
   {
+    "title": "The Antarctic Fleet",
+    "tags": [
+      "Maritime",
+      "Hard Times"
+    ]
+  },
+  {
     "title": "Antiguan Graveyard",
     "tags": [
       "Maritime",
@@ -88,6 +95,14 @@
     ]
   },
   {
+    "title": "The Auld Triangle",
+    "tags": [
+      "Irish",
+      "Hard Times",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Away to the South’ard",
     "tags": [
       "Maritime",
@@ -110,6 +125,21 @@
     ]
   },
   {
+    "title": "The Banks of the Brisbane River",
+    "tags": [
+      "Australian",
+      "Maritime"
+    ]
+  },
+  {
+    "title": "The Banks of the Sacramento",
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Barge Ballad",
     "tags": [
       "English",
@@ -117,8 +147,27 @@
     ]
   },
   {
+    "title": "The Barleymow",
+    "tags": [
+      "English",
+      "Drinking Song",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Barrett’s Privateers",
-    "tags": ["North American", "Maritime", "Chorus-Heavy"]
+    "tags": [
+      "North American",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Bay of Suvla",
+    "tags": [
+      "Australian",
+      "Hard Times"
+    ]
   },
   {
     "title": "Becalmed",
@@ -132,6 +181,13 @@
     "tags": [
       "Humorous",
       "Maritime"
+    ]
+  },
+  {
+    "title": "The Bellringing",
+    "tags": [
+      "English",
+      "Chorus-Heavy"
     ]
   },
   {
@@ -154,6 +210,23 @@
     "tags": [
       "Maritime",
       "Shanty"
+    ]
+  },
+  {
+    "title": "The Black Ball Line",
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Black Velvet Band",
+    "tags": [
+      "Irish",
+      "English",
+      "Australian",
+      "Convict / Transportation"
     ]
   },
   {
@@ -182,7 +255,17 @@
   },
   {
     "title": "Blue-Eyed Nancy",
-    "tags": ["English", "Ballad"]
+    "tags": [
+      "English",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Bold Fisherman",
+    "tags": [
+      "English",
+      "Myth & Legend"
+    ]
   },
   {
     "title": "Bold Riley",
@@ -204,6 +287,14 @@
     "tags": [
       "Maritime",
       "Shanty"
+    ]
+  },
+  {
+    "title": "The Bonny Light Horseman",
+    "tags": [
+      "English",
+      "Irish",
+      "Hard Times"
     ]
   },
   {
@@ -261,6 +352,13 @@
     ]
   },
   {
+    "title": "The British Grenadiers",
+    "tags": [
+      "English",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Bully in the Alley (v1)",
     "tags": [
       "Maritime",
@@ -299,6 +397,21 @@
     ]
   },
   {
+    "title": "The Captain’s Daughter",
+    "tags": [
+      "English",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Catalpa",
+    "tags": [
+      "Irish",
+      "Maritime",
+      "Rebel / Political"
+    ]
+  },
+  {
     "title": "Charlie Mops",
     "tags": [
       "English",
@@ -311,6 +424,14 @@
     "tags": [
       "Maritime",
       "Shanty"
+    ]
+  },
+  {
+    "title": "The Chemical Worker’s Song",
+    "tags": [
+      "English",
+      "Hard Times",
+      "Rebel / Political"
     ]
   },
   {
@@ -330,15 +451,24 @@
   },
   {
     "title": "Come All Ye Tonguers",
-    "tags": ["Maritime", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Come and be Welcome",
-    "tags": ["Chorus-Heavy", "Ballad"]
+    "tags": [
+      "Chorus-Heavy",
+      "Ballad"
+    ]
   },
   {
     "title": "Come O’er the Stream Charlie",
-    "tags": ["Scottish", "Rebel / Political"]
+    "tags": [
+      "Scottish",
+      "Rebel / Political"
+    ]
   },
   {
     "title": "Come, Landlord Fill the Flowing Bowl",
@@ -346,6 +476,14 @@
       "English",
       "Drinking Song",
       "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Corncrake",
+    "tags": [
+      "Irish",
+      "English",
+      "Ballad"
     ]
   },
   {
@@ -365,6 +503,20 @@
     ]
   },
   {
+    "title": "The Cuckoo’s Nest",
+    "tags": [
+      "English",
+      "Humorous"
+    ]
+  },
+  {
+    "title": "The Curse",
+    "tags": [
+      "Australian",
+      "Bush"
+    ]
+  },
+  {
     "title": "Dance Up The Sun",
     "tags": [
       "English",
@@ -379,11 +531,33 @@
     ]
   },
   {
+    "title": "The Dead Horse Shanty",
+    "tags": [
+      "Maritime",
+      "Shanty"
+    ]
+  },
+  {
     "title": "Deep Blue Sea",
     "tags": [
       "North American",
       "Maritime",
       "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Derby Ram",
+    "tags": [
+      "English",
+      "Humorous",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Derelict",
+    "tags": [
+      "Maritime",
+      "Ballad"
     ]
   },
   {
@@ -402,7 +576,11 @@
   },
   {
     "title": "Donald, Where's your Troosers",
-    "tags": ["Scottish", "Humorous", "Chorus-Heavy"]
+    "tags": [
+      "Scottish",
+      "Humorous",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Donkey Riding",
@@ -430,7 +608,10 @@
   },
   {
     "title": "Downed and Drowned",
-    "tags": ["Maritime", "Contemporary"]
+    "tags": [
+      "Maritime",
+      "Contemporary"
+    ]
   },
   {
     "title": "Drink Up Thy Zider",
@@ -438,6 +619,13 @@
       "English",
       "Drinking Song",
       "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Drowned Lovers",
+    "tags": [
+      "English",
+      "Ballad"
     ]
   },
   {
@@ -450,7 +638,27 @@
   },
   {
     "title": "Drunken Sailor (v2)",
-    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Drunken Scotsman",
+    "tags": [
+      "Scottish",
+      "Humorous",
+      "Drinking Song"
+    ]
+  },
+  {
+    "title": "The Eddystone Light",
+    "tags": [
+      "English",
+      "Maritime",
+      "Humorous"
+    ]
   },
   {
     "title": "El Fusilado",
@@ -472,6 +680,13 @@
     "tags": [
       "Maritime",
       "Shanty"
+    ]
+  },
+  {
+    "title": "The Essex",
+    "tags": [
+      "Maritime",
+      "Ballad"
     ]
   },
   {
@@ -530,6 +745,14 @@
     ]
   },
   {
+    "title": "The Fields of Athenry",
+    "tags": [
+      "Irish",
+      "Hard Times",
+      "Convict / Transportation"
+    ]
+  },
+  {
     "title": "Finnegan’s Wake",
     "tags": [
       "Irish",
@@ -568,6 +791,14 @@
     ]
   },
   {
+    "title": "The Foggy Dew",
+    "tags": [
+      "Irish",
+      "Rebel / Political",
+      "Ballad"
+    ]
+  },
+  {
     "title": "Follow the Heron",
     "tags": [
       "Scottish",
@@ -582,11 +813,33 @@
     ]
   },
   {
+    "title": "The Fox",
+    "tags": [
+      "English",
+      "Humorous",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Frobisher Bay",
     "tags": [
       "North American",
       "Maritime",
       "Hard Times"
+    ]
+  },
+  {
+    "title": "The Gals of Chile",
+    "tags": [
+      "Maritime",
+      "Shanty"
+    ]
+  },
+  {
+    "title": "The Galway Shawl",
+    "tags": [
+      "Irish",
+      "Ballad"
     ]
   },
   {
@@ -629,7 +882,31 @@
     ]
   },
   {
+    "title": "The Green Fields of France",
+    "tags": [
+      "Scottish",
+      "Irish",
+      "Hard Times",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Green Man",
+    "tags": [
+      "English",
+      "Myth & Legend"
+    ]
+  },
+  {
     "title": "Greenland Whale Fisheries",
+    "tags": [
+      "English",
+      "Maritime",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Grey Funnel Line",
     "tags": [
       "English",
       "Maritime",
@@ -652,8 +929,19 @@
     ]
   },
   {
+    "title": "The Happy Man",
+    "tags": [
+      "English",
+      "Ballad"
+    ]
+  },
+  {
     "title": "Hard on the Beach Oar - Shawnee Town",
-    "tags": ["North American", "Maritime", "Shanty"]
+    "tags": [
+      "North American",
+      "Maritime",
+      "Shanty"
+    ]
   },
   {
     "title": "Hard Times Come Again No More",
@@ -757,6 +1045,14 @@
     ]
   },
   {
+    "title": "The Holy Ground",
+    "tags": [
+      "Irish",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Home from the Sea",
     "tags": [
       "Scottish",
@@ -775,6 +1071,13 @@
     "title": "Horo Johnny",
     "tags": [
       "Irish",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Husbandman and the Servingman",
+    "tags": [
+      "English",
       "Ballad"
     ]
   },
@@ -817,8 +1120,20 @@
     ]
   },
   {
+    "title": "The Idiot",
+    "tags": [
+      "North American",
+      "Maritime",
+      "Ballad"
+    ]
+  },
+  {
     "title": "In Kirkintilloch There's Nae Pubs",
-    "tags": ["Scottish", "Humorous", "Drinking Song"]
+    "tags": [
+      "Scottish",
+      "Humorous",
+      "Drinking Song"
+    ]
   },
   {
     "title": "It’s a Long Way to Tipperary",
@@ -853,7 +1168,11 @@
   },
   {
     "title": "Jim’s Bike",
-    "tags": ["Australian", "Humorous", "Contemporary Folk"]
+    "tags": [
+      "Australian",
+      "Humorous",
+      "Contemporary Folk"
+    ]
   },
   {
     "title": "Johnny Be Fair",
@@ -902,8 +1221,36 @@
     ]
   },
   {
+    "title": "The Last Brisbane Pirate",
+    "tags": [
+      "Australian",
+      "Maritime",
+      "Humorous"
+    ]
+  },
+  {
+    "title": "The Last Saskatchewan Pirate",
+    "tags": [
+      "North American",
+      "Maritime",
+      "Humorous"
+    ]
+  },
+  {
+    "title": "The Last Shanty",
+    "tags": [
+      "English",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Le Capitaine De Saint-Malo",
-    "tags": ["French", "Maritime", "Shanty"]
+    "tags": [
+      "French",
+      "Maritime",
+      "Shanty"
+    ]
   },
   {
     "title": "Leave Her Johnny",
@@ -914,12 +1261,27 @@
     ]
   },
   {
+    "title": "The Leaving of Liverpool",
+    "tags": [
+      "English",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Lee Fore Brace",
-    "tags": ["Maritime", "Shanty"]
+    "tags": [
+      "Maritime",
+      "Shanty"
+    ]
   },
   {
     "title": "Let the Bulgine Run - Eliza Lee",
-    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Lifeboat Man",
@@ -927,6 +1289,13 @@
       "English",
       "Maritime",
       "Ballad"
+    ]
+  },
+  {
+    "title": "The Lincolnshire Poacher",
+    "tags": [
+      "English",
+      "Chorus-Heavy"
     ]
   },
   {
@@ -960,6 +1329,13 @@
     ]
   },
   {
+    "title": "The Lollypop Man",
+    "tags": [
+      "English",
+      "Humorous"
+    ]
+  },
+  {
     "title": "Lovers and Friends",
     "tags": [
       "Australian",
@@ -984,7 +1360,11 @@
   },
   {
     "title": "MacPherson's Rant",
-    "tags": ["Scottish", "Rebel / Political", "Ballad"]
+    "tags": [
+      "Scottish",
+      "Rebel / Political",
+      "Ballad"
+    ]
   },
   {
     "title": "Maggie May",
@@ -1055,6 +1435,10 @@
     ]
   },
   {
+    "title": "Make And Break Harbour",
+    "tags": []
+  },
+  {
     "title": "Man of the Earth",
     "tags": [
       "English",
@@ -1078,6 +1462,14 @@
     ]
   },
   {
+    "title": "The Mary Ellen Carter",
+    "tags": [
+      "North American",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "McGinty’s Meal and Ale",
     "tags": [
       "Scottish",
@@ -1086,8 +1478,29 @@
     ]
   },
   {
+    "title": "The Mermaid",
+    "tags": [
+      "English",
+      "Maritime",
+      "Myth & Legend",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Mingulay Boat Song",
+    "tags": [
+      "Scottish",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Mining for Gold - Chemical Worker's Song",
-    "tags": ["English", "Hard Times", "Rebel / Political"]
+    "tags": [
+      "English",
+      "Hard Times",
+      "Rebel / Political"
+    ]
   },
   {
     "title": "Molly Malone",
@@ -1229,6 +1642,13 @@
     ]
   },
   {
+    "title": "The Old Man From Over the Sea",
+    "tags": [
+      "English",
+      "Humorous"
+    ]
+  },
+  {
     "title": "Old Maui",
     "tags": [
       "Maritime",
@@ -1275,6 +1695,13 @@
     ]
   },
   {
+    "title": "The Orca's Revenge",
+    "tags": [
+      "Maritime",
+      "Ballad"
+    ]
+  },
+  {
     "title": "Pack Up Your Troubles",
     "tags": [
       "English",
@@ -1314,11 +1741,34 @@
   },
   {
     "title": "Padstow Farewell",
-    "tags": ["English", "Maritime", "Chorus-Heavy"]
+    "tags": [
+      "English",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Parting Glass",
+    "tags": [
+      "Irish",
+      "Scottish",
+      "Drinking Song"
+    ]
+  },
+  {
+    "title": "The Parting Song",
+    "tags": [
+      "Ballad",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Pass Around the Grog Me Boys",
-    "tags": ["Drinking Song", "Maritime", "Chorus-Heavy"]
+    "tags": [
+      "Drinking Song",
+      "Maritime",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Peat Fire Flame",
@@ -1360,7 +1810,11 @@
   },
   {
     "title": "Pride of the White Star Line",
-    "tags": ["Irish", "Maritime", "Ballad"]
+    "tags": [
+      "Irish",
+      "Maritime",
+      "Ballad"
+    ]
   },
   {
     "title": "Pump Shanty",
@@ -1394,7 +1848,18 @@
   },
   {
     "title": "Rattle ‘Em Winches",
-    "tags": ["Maritime", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Rattling Bog",
+    "tags": [
+      "Irish",
+      "Humorous",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Red is the Rose",
@@ -1409,6 +1874,14 @@
       "Australian",
       "Bush",
       "Ballad"
+    ]
+  },
+  {
+    "title": "The Reluctant Shanty",
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Humorous"
     ]
   },
   {
@@ -1441,6 +1914,13 @@
     ]
   },
   {
+    "title": "The Rocky Road to Dublin",
+    "tags": [
+      "Irish",
+      "Ballad"
+    ]
+  },
+  {
     "title": "Roll Alabama Roll",
     "tags": [
       "Maritime",
@@ -1468,6 +1948,14 @@
     "tags": [
       "Maritime",
       "Shanty",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Rollicking Boys Around Tandragee",
+    "tags": [
+      "Irish",
+      "Drinking Song",
       "Chorus-Heavy"
     ]
   },
@@ -1505,7 +1993,11 @@
   },
   {
     "title": "Rueben Ranzo",
-    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Running Down to Cuba",
@@ -1527,6 +2019,14 @@
     "tags": [
       "English",
       "Maritime"
+    ]
+  },
+  {
+    "title": "The Sailor Loves the Botte-O",
+    "tags": [
+      "Australian",
+      "Maritime",
+      "Drinking Song"
     ]
   },
   {
@@ -1631,6 +2131,28 @@
     ]
   },
   {
+    "title": "The Shoals of Herring",
+    "tags": [
+      "English",
+      "Maritime",
+      "Hard Times",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Shores of Botany Bay",
+    "tags": [
+      "Irish",
+      "Australian",
+      "Convict / Transportation",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "Shores of Botany Bay",
+    "tags": []
+  },
+  {
     "title": "Sixteen Tons",
     "tags": [
       "North American",
@@ -1640,11 +2162,19 @@
   },
   {
     "title": "Skye Boat Song, The (v1)",
-    "tags": ["Scottish", "Ballad", "Rebel / Political"]
+    "tags": [
+      "Scottish",
+      "Ballad",
+      "Rebel / Political"
+    ]
   },
   {
     "title": "Skye Boat Song, The (v2)",
-    "tags": ["Scottish", "Ballad", "Rebel / Political"]
+    "tags": [
+      "Scottish",
+      "Ballad",
+      "Rebel / Political"
+    ]
   },
   {
     "title": "Sloop John B",
@@ -1710,8 +2240,12 @@
   },
   {
     "title": "Suez Canal",
-    "tags": ["Maritime", "Shanty", "Contemporary"]
-    },
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Contemporary"
+    ]
+  },
   {
     "title": "Sugar in the Hold",
     "tags": [
@@ -1721,7 +2255,10 @@
   },
   {
     "title": "Tatties an’ Herrin’",
-    "tags": ["Scottish", "Hard Times"]
+    "tags": [
+      "Scottish",
+      "Hard Times"
+    ]
   },
   {
     "title": "Ten Thousand Miles Away",
@@ -1729,493 +2266,6 @@
       "English",
       "Maritime",
       "Convict / Transportation"
-    ]
-  },
-  {
-    "title": "The Antarctic Fleet",
-    "tags": [
-      "Maritime",
-      "Hard Times"
-    ]
-  },
-  {
-    "title": "The Auld Triangle",
-    "tags": [
-      "Irish",
-      "Hard Times",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Banks of the Brisbane River",
-    "tags": [
-      "Australian",
-      "Maritime"
-    ]
-  },
-  {
-    "title": "The Banks of the Sacramento",
-    "tags": [
-      "Maritime",
-      "Shanty",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Barleymow",
-    "tags": [
-      "English",
-      "Drinking Song",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Bay of Suvla",
-    "tags": [
-      "Australian",
-      "Hard Times"
-    ]
-  },
-  {
-    "title": "The Bellringing",
-    "tags": [
-      "English",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Black Ball Line",
-    "tags": [
-      "Maritime",
-      "Shanty",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Black Velvet Band",
-    "tags": [
-      "Irish",
-      "English",
-      "Australian",
-      "Convict / Transportation"
-    ]
-  },
-  {
-    "title": "The Bold Fisherman",
-    "tags": [
-      "English",
-      "Myth & Legend"
-    ]
-  },
-  {
-    "title": "The Bonny Light Horseman",
-    "tags": [
-      "English",
-      "Irish",
-      "Hard Times"
-    ]
-  },
-  {
-    "title": "The British Grenadiers",
-    "tags": [
-      "English",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Captain’s Daughter",
-    "tags": [
-      "English",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Catalpa",
-    "tags": [
-      "Irish",
-      "Maritime",
-      "Rebel / Political"
-    ]
-  },
-  {
-    "title": "The Chemical Worker’s Song",
-    "tags": [
-      "English",
-      "Hard Times",
-      "Rebel / Political"
-    ]
-  },
-  {
-    "title": "The Corncrake",
-    "tags": [
-      "Irish",
-      "English",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Cuckoo’s Nest",
-    "tags": [
-      "English",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Curse",
-    "tags": [
-      "Australian",
-      "Bush"
-    ]
-  },
-  {
-    "title": "The Dead Horse Shanty",
-    "tags": [
-      "Maritime",
-      "Shanty"
-    ]
-  },
-  {
-    "title": "The Derby Ram",
-    "tags": [
-      "English",
-      "Humorous",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Derelict",
-    "tags": [
-      "Maritime",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Drowned Lovers",
-    "tags": [
-      "English",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Drunken Scotsman",
-    "tags": [
-      "Scottish",
-      "Humorous",
-      "Drinking Song"
-    ]
-  },
-  {
-    "title": "The Eddystone Light",
-    "tags": [
-      "English",
-      "Maritime",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Essex",
-    "tags": [
-      "Maritime",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Fields of Athenry",
-    "tags": [
-      "Irish",
-      "Hard Times",
-      "Convict / Transportation"
-    ]
-  },
-  {
-    "title": "The Foggy Dew",
-    "tags": [
-      "Irish",
-      "Rebel / Political",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Fox",
-    "tags": [
-      "English",
-      "Humorous",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Gals of Chile",
-    "tags": [
-      "Maritime",
-      "Shanty"
-    ]
-  },
-  {
-    "title": "The Galway Shawl",
-    "tags": [
-      "Irish",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Green Fields of France",
-    "tags": [
-      "Scottish",
-      "Irish",
-      "Hard Times",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Green Man",
-    "tags": [
-      "English",
-      "Myth & Legend"
-    ]
-  },
-  {
-    "title": "The Grey Funnel Line",
-    "tags": [
-      "English",
-      "Maritime",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Happy Man",
-    "tags": [
-      "English",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Holy Ground",
-    "tags": [
-      "Irish",
-      "Maritime",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Husbandman and the Servingman",
-    "tags": [
-      "English",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Idiot",
-    "tags": [
-      "North American",
-      "Maritime",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Last Brisbane Pirate",
-    "tags": [
-      "Australian",
-      "Maritime",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Last Saskatchewan Pirate",
-    "tags": [
-      "North American",
-      "Maritime",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Last Shanty",
-    "tags": [
-      "English",
-      "Maritime",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Leaving of Liverpool",
-    "tags": [
-      "English",
-      "Maritime",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Lincolnshire Poacher",
-    "tags": [
-      "English",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Lollypop Man",
-    "tags": [
-      "English",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Mary Ellen Carter",
-    "tags": [
-      "North American",
-      "Maritime",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Mermaid",
-    "tags": [
-      "English",
-      "Maritime",
-      "Myth & Legend",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Mingulay Boat Song",
-    "tags": [
-      "Scottish",
-      "Maritime",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Old Man From Over the Sea",
-    "tags": [
-      "English",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Orca's Revenge",
-    "tags": [
-      "Maritime",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Parting Glass",
-    "tags": [
-      "Irish",
-      "Scottish",
-      "Drinking Song"
-    ]
-  },
-  {
-    "title": "The Parting Song",
-    "tags": ["Ballad", "Chorus-Heavy"]
-  },
-  {
-    "title": "The Rattling Bog",
-    "tags": [
-      "Irish",
-      "Humorous",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Reluctant Shanty",
-    "tags": [
-      "Maritime",
-      "Shanty",
-      "Humorous"
-    ]
-  },
-  {
-    "title": "The Rocky Road to Dublin",
-    "tags": [
-      "Irish",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Rollicking Boys Around Tandragee",
-    "tags": [
-      "Irish",
-      "Drinking Song",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Sailor Loves the Botte-O",
-    "tags": ["Australian", "Maritime", "Drinking Song"]
-  },
-  {
-    "title": "The Shoals of Herring",
-    "tags": [
-      "English",
-      "Maritime",
-      "Hard Times",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Shores of Botany Bay",
-    "tags": [
-      "Irish",
-      "Australian",
-      "Convict / Transportation",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Transports Shanty",
-    "tags": [
-      "English",
-      "Australian",
-      "Convict / Transportation"
-    ]
-  },
-  {
-    "title": "The Two Magicians",
-    "tags": [
-      "English",
-      "Scottish",
-      "Myth & Legend",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Wellerman",
-    "tags": [
-      "Maritime",
-      "Shanty",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Wild Rover",
-    "tags": [
-      "Irish",
-      "Drinking Song",
-      "Chorus-Heavy"
-    ]
-  },
-  {
-    "title": "The Witch of the Westmorland",
-    "tags": [
-      "English",
-      "Myth & Legend",
-      "Ballad"
-    ]
-  },
-  {
-    "title": "The Workers Song",
-    "tags": [
-      "Scottish",
-      "English",
-      "Hard Times",
-      "Rebel / Political"
-    ]
-  },
-  {
-    "title": "The Worst Old Ship",
-    "tags": [
-      "Maritime",
-      "Shanty"
     ]
   },
   {
@@ -2243,7 +2293,19 @@
   },
   {
     "title": "Tom Paine’s Bones",
-    "tags": ["English", "Rebel / Political", "Chorus-Heavy"]
+    "tags": [
+      "English",
+      "Rebel / Political",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Transports Shanty",
+    "tags": [
+      "English",
+      "Australian",
+      "Convict / Transportation"
+    ]
   },
   {
     "title": "Travelling through the Storm",
@@ -2254,7 +2316,10 @@
   },
   {
     "title": "Turmut Hoer, The",
-    "tags": ["English", "Humorous"]
+    "tags": [
+      "English",
+      "Humorous"
+    ]
   },
   {
     "title": "Turning Steel",
@@ -2279,8 +2344,21 @@
     ]
   },
   {
+    "title": "The Two Magicians",
+    "tags": [
+      "English",
+      "Scottish",
+      "Myth & Legend",
+      "Ballad"
+    ]
+  },
+  {
     "title": "Two Sisters",
-    "tags": ["English", "Myth & Legend", "Ballad"]
+    "tags": [
+      "English",
+      "Myth & Legend",
+      "Ballad"
+    ]
   },
   {
     "title": "Unison in Harmony",
@@ -2291,7 +2369,9 @@
   },
   {
     "title": "Up And Away",
-    "tags": ["Contemporary Folk"]
+    "tags": [
+      "Contemporary Folk"
+    ]
   },
   {
     "title": "Wagon Wheel",
@@ -2306,6 +2386,14 @@
       "Scottish",
       "Hard Times",
       "Ballad"
+    ]
+  },
+  {
+    "title": "The Wellerman",
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
     ]
   },
   {
@@ -2325,7 +2413,10 @@
   },
   {
     "title": "Where Am I to Go Me Johnnies",
-    "tags": ["Maritime", "Shanty"]
+    "tags": [
+      "Maritime",
+      "Shanty"
+    ]
   },
   {
     "title": "Whiskey in the Jar",
@@ -2368,13 +2459,25 @@
   },
   {
     "title": "Wild Goose Shanty",
-    "tags": ["Maritime", "Shanty", "Chorus-Heavy"]
+    "tags": [
+      "Maritime",
+      "Shanty",
+      "Chorus-Heavy"
+    ]
   },
   {
     "title": "Wild Mountain Thyme",
     "tags": [
       "Scottish",
       "Irish",
+      "Chorus-Heavy"
+    ]
+  },
+  {
+    "title": "The Wild Rover",
+    "tags": [
+      "Irish",
+      "Drinking Song",
       "Chorus-Heavy"
     ]
   },
@@ -2386,11 +2489,35 @@
     ]
   },
   {
+    "title": "The Witch of the Westmorland",
+    "tags": [
+      "English",
+      "Myth & Legend",
+      "Ballad"
+    ]
+  },
+  {
+    "title": "The Workers Song",
+    "tags": [
+      "Scottish",
+      "English",
+      "Hard Times",
+      "Rebel / Political"
+    ]
+  },
+  {
     "title": "Working Man",
     "tags": [
       "English",
       "Hard Times",
       "Ballad"
+    ]
+  },
+  {
+    "title": "The Worst Old Ship",
+    "tags": [
+      "Maritime",
+      "Shanty"
     ]
   },
   {
@@ -2411,7 +2538,10 @@
   },
   {
     "title": "Ye Jacobite's by Name",
-    "tags": ["Scottish", "Rebel / Political"]
+    "tags": [
+      "Scottish",
+      "Rebel / Political"
+    ]
   },
   {
     "title": "Yellow Submarine",
