@@ -80,8 +80,6 @@ function clearAllFavorites() {
     }
 }
 
-
-
 // --- UPDATED LOAD & FILTER ---
 
 async function loadSongs() {
@@ -112,17 +110,17 @@ async function loadSongs() {
             const firstChar = cleanTitle.charAt(0).toUpperCase();
 
             if (firstChar !== currentLetter) {
-    currentLetter = firstChar;
-    if (insideList) {
-        tocHtml += '</ul>';
-    }
-    tocHtml += '<ul>';
-    insideList = true;
-}
+                currentLetter = firstChar;
+                if (insideList) {
+                    tocHtml += '</ul>';
+                }
+                tocHtml += '<ul>';
+                insideList = true;
+            }
 
-            const tagLabels = songObj.tags.map(t => `<span class="toc-tag">${t}</span>`).join('');
+            const tagLabels = (songObj.tags || []).map(t => `<span class="toc-tag">${t}</span>`).join('');
 
-            tocHtml += `<li class="${isFav ? 'is-favorite' : ''}" data-tags='${JSON.stringify(songObj.tags)}'>
+            tocHtml += `<li class="${isFav ? 'is-favorite' : ''}" data-tags="${(songObj.tags || []).join(',')}">
                 <a href="#${id}">${song}</a>${tagLabels}<span class="toc-heart"> ❤️</span>
             </li>`;
         });
@@ -133,7 +131,7 @@ async function loadSongs() {
 
         toc.innerHTML = tocHtml;
 
-// Load Lyrics
+        // Load Lyrics
         const songPromises = allSongsData.map(async (songObj) => {
             const song = songObj.title;
             const id = song.toLowerCase().replace(/[^a-z0-9]/g, '-');
@@ -146,12 +144,12 @@ async function loadSongs() {
                 return {
                     id,
                     title: song,
-                    author: songObj.author || '', // 1. Put author here in the return object
+                    author: songObj.author || '',
                     lyrics: formatted,
-                    tags: songObj.tags
+                    tags: songObj.tags || []
                 };
             } catch (err) {
-                return { id, title: song, author: '', lyrics: "Error loading lyrics.", tags: [] };
+                return { id, title: song, author: songObj.author || '', lyrics: "Error loading lyrics.", tags: [] };
             }
         });
 
@@ -161,9 +159,9 @@ async function loadSongs() {
         renderedSongs.map(s => {
             const isFav = favorites.includes(s.id);
             return `
-                <section class="song-chunk" id="${s.id}" data-tags='${JSON.stringify(s.tags)}'>
+                <section class="song-chunk" id="${s.id}" data-tags="${(s.tags || []).join(',')}">
                     <h1>${s.title} <button class="fav-btn ${isFav ? 'heart-full' : 'heart-empty'}" onclick="toggleFavorite('${s.id}', event)">${isFav ? '❤️' : '🤍'}</button></h1>
-                    ${s.author ? `<div class="song-author">By ${s.author}</div>` : ''} <!-- 2. Put this right here below <h1> -->
+                    ${s.author ? `<div class="song-author">By ${s.author}</div>` : ''}
                     <div class="lyrics">${s.lyrics}</div>
                     <a href="#songSearch" class="back-to-top">↑ Back to table of contents</a>
                 </section>
@@ -172,6 +170,28 @@ async function loadSongs() {
 
     } catch (e) {
         toc.innerHTML = `<p style="color:red;">Error: ${e.message}</p>`;
+    }
+}
+
+// --- Clear Search Functions (Place them OUTSIDE loadSongs) ---
+function clearSearch() {
+    const searchInput = document.getElementById('songSearch');
+    if (searchInput) {
+        searchInput.value = '';
+        filterSongs();
+        toggleClearButton();
+    }
+}
+
+function toggleClearButton() {
+    const searchInput = document.getElementById('songSearch');
+    const clearBtn = document.getElementById('clear-search-btn');
+    if (searchInput && clearBtn) {
+        if (searchInput.value.length > 0) {
+            clearBtn.style.display = 'block';
+        } else {
+            clearBtn.style.display = 'none';
+        }
     }
 }
 
@@ -186,10 +206,12 @@ function filterSongs() {
 
     sections.forEach(s => {
         const title = s.querySelector('h1').textContent.toLowerCase();
+        const authorEl = s.querySelector('.song-author');
+        const author = authorEl ? authorEl.textContent.toLowerCase() : '';
         const isFav = favorites.includes(s.id);
-        const songTags = JSON.parse(s.getAttribute('data-tags') || '[]');
+        const songTags = (s.getAttribute('data-tags') || '').split(',');
 
-        const matchesSearch = title.includes(query);
+        const matchesSearch = title.includes(query) || author.includes(query);
         const matchesTag = selectedTag === "" || songTags.includes(selectedTag);
         const matchesFavFilter = !favoritesOnlyMode || isFav;
 
@@ -204,15 +226,22 @@ function filterSongs() {
     // Update TOC display
     tocItems.forEach(li => {
         if (li.classList.contains('toc-letter-header')) {
-            // Hide letter headers if any filter is active
             li.style.display = (query === '' && selectedTag === '' && !favoritesOnlyMode) ? '' : 'none';
         } else {
-            const title = li.textContent.toLowerCase();
-            const id = li.querySelector('a')?.getAttribute('href').substring(1);
+            const text = li.textContent.toLowerCase();
+            const id = li.querySelector('a')?.getAttribute('href')?.substring(1);
             const isFav = favorites.includes(id);
-            const songTags = JSON.parse(li.getAttribute('data-tags') || '[]');
+            const songTags = (li.getAttribute('data-tags') || '').split(',');
 
-            const matchesSearch = title.includes(query);
+            // Check if search matches title/TOC text OR author of the song
+            let matchesSearch = text.includes(query);
+            if (!matchesSearch && id) {
+                const sectionAuthor = document.querySelector(`.song-chunk[id="${id}"] .song-author`);
+                if (sectionAuthor && sectionAuthor.textContent.toLowerCase().includes(query)) {
+                    matchesSearch = true;
+                }
+            }
+
             const matchesTag = selectedTag === "" || songTags.includes(selectedTag);
             const matchesFavFilter = !favoritesOnlyMode || isFav;
 
@@ -225,6 +254,7 @@ function filterSongs() {
     } else {
         emptyMsg.style.display = 'none';
     }
+    toggleClearButton(); // Add this line to update button visibility on input
 }
 
 function changeFontSize(delta) {
@@ -250,12 +280,11 @@ window.onload = loadSongs;
 
 function openQR() {
     document.getElementById('qr-modal').classList.add('open');
-    toggleOptions(); // closes the options menu
+    toggleOptions();
 }
 function closeQR() {
     document.getElementById('qr-modal').classList.remove('open');
 }
-
 
 function openFAQ() {
     document.getElementById('faq-modal').classList.add('open');
@@ -265,17 +294,15 @@ function closeFAQ() {
     document.getElementById('faq-modal').classList.remove('open');
 }
 
-// Register Service Worker for PWA
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
-            .then(reg => console.log('Service Worker: Registered (Scope: ' + reg.scope + ')'))
-            .catch(err => console.log('Service Worker: Registration Failed', err));
+            .then(reg => console.log('Service Worker Registered'))
+            .catch(err => console.log('Service Worker Failed', err));
     });
 }
 
 function getRandomFavorite() {
-    // 1. Get all song sections that are currently in the favorites list
     const favoriteSections = Array.from(document.querySelectorAll('.song-chunk'))
         .filter(s => favorites.includes(s.id));
 
@@ -284,16 +311,13 @@ function getRandomFavorite() {
         return;
     }
 
-    // 2. Pick one at random
     const randomIndex = Math.floor(Math.random() * favoriteSections.length);
     const target = favoriteSections[randomIndex];
 
-    // 3. Scroll and highlight (reusing your existing logic)
     target.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
     document.querySelectorAll('.song-chunk').forEach(s => s.classList.remove('highlight-target'));
     target.classList.add('highlight-target');
 
-    // 4. Close the menu
     toggleOptions();
 }

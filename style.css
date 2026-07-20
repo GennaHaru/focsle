@@ -324,3 +324,40 @@ body.dark-mode { background: #1a1a1a !important; color: #e0e0e0 !important; }
 .center-align .lyrics {
     text-align: center !important;
 }
+
+.search-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    }
+
+/* Make room inside the input so text doesn't flow under the X button */
+#songSearch {
+    width: 100%;
+    padding-right: 35px;
+    box-sizing: border-box;
+}
+
+#clear-search-btn {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #888888;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    cursor: pointer;
+    display: none; /* Hidden by default until you type */
+    padding: 0;
+    z-index: 10; /* Forces it to sit visibly on top of the input */
+}
+
+#clear-search-btn:hover {
+    background: #555555;
+}

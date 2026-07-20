@@ -33,8 +33,10 @@
     <header>
         <img src="banner.png" alt="Saturday Night at Sea by George Cruickshank" id="banner-image">
         <div class="search-controls">
-            <input type="text" id="songSearch" placeholder="Search for a song title..." onkeyup="filterSongs()">
-
+        <div class="search-container">
+<input type="text" id="songSearch" placeholder="Search songs or authors..." oninput="filterSongs()">
+    <button id="clear-search-btn" onclick="clearSearch()" title="Clear search">×</button>
+</div>
             <select id="tagFilter" onchange="filterSongs()">
     <option value="">All Tags</option>
     <option value="Australian">Australian</option>
