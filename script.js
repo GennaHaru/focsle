@@ -133,7 +133,7 @@ async function loadSongs() {
 
         toc.innerHTML = tocHtml;
 
-        // Load Lyrics
+// Load Lyrics
         const songPromises = allSongsData.map(async (songObj) => {
             const song = songObj.title;
             const id = song.toLowerCase().replace(/[^a-z0-9]/g, '-');
@@ -143,9 +143,15 @@ async function loadSongs() {
                 const lines = text.split('\n');
                 const body = lines[0].startsWith("Title:") ? lines.slice(1).join('\n') : text;
                 const formatted = body.trim().replace(/\*\*(.*?)\*\*/gs, '<b>$1</b>');
-                return { id, title: song, lyrics: formatted, tags: songObj.tags, author: songObj.author };
+                return {
+                    id,
+                    title: song,
+                    author: songObj.author || '', // 1. Put author here in the return object
+                    lyrics: formatted,
+                    tags: songObj.tags
+                };
             } catch (err) {
-                return { id, title: song, lyrics: "Error loading lyrics.", tags: [] };
+                return { id, title: song, author: '', lyrics: "Error loading lyrics.", tags: [] };
             }
         });
 
@@ -157,6 +163,7 @@ async function loadSongs() {
             return `
                 <section class="song-chunk" id="${s.id}" data-tags='${JSON.stringify(s.tags)}'>
                     <h1>${s.title} <button class="fav-btn ${isFav ? 'heart-full' : 'heart-empty'}" onclick="toggleFavorite('${s.id}', event)">${isFav ? '❤️' : '🤍'}</button></h1>
+                    ${s.author ? `<div class="song-author">By ${s.author}</div>` : ''} <!-- 2. Put this right here below <h1> -->
                     <div class="lyrics">${s.lyrics}</div>
                     <a href="#songSearch" class="back-to-top">↑ Back to table of contents</a>
                 </section>
