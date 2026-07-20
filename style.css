@@ -301,3 +301,26 @@ body.dark-mode { background: #1a1a1a !important; color: #e0e0e0 !important; }
 .dark-mode #random-fav-btn:hover {
     background-color: #3e2b2b !important;
 }
+
+/* Song Author Subtitle */
+.song-author {
+    font-style: italic;
+    color: #555;
+    margin-top: -8px;
+    margin-bottom: 15px;
+    font-size: 1.05em;
+}
+
+/* Dark Mode Author Style */
+.dark-mode .song-author {
+    color: #aaa;
+}
+
+/* Updated Alignment Rule */
+.center-align #toc ul,
+.center-align .song-chunk h1,
+.center-align .song-author,
+.center-align .song-tags-display,
+.center-align .lyrics {
+    text-align: center !important;
+}

@@ -143,7 +143,7 @@ async function loadSongs() {
                 const lines = text.split('\n');
                 const body = lines[0].startsWith("Title:") ? lines.slice(1).join('\n') : text;
                 const formatted = body.trim().replace(/\*\*(.*?)\*\*/gs, '<b>$1</b>');
-                return { id, title: song, lyrics: formatted, tags: songObj.tags };
+                return { id, title: song, lyrics: formatted, tags: songObj.tags, author: songObj.author };
             } catch (err) {
                 return { id, title: song, lyrics: "Error loading lyrics.", tags: [] };
             }
