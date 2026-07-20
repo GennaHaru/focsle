@@ -1,3257 +1,2576 @@
 [
   {
     "title": "1845",
-    "author": "Bernard Carney",
     "tags": [
       "Irish",
       "Hard Times",
-      "Ballad",
-      "Bernard Carney"
+      "Ballad"
     ]
   },
   {
     "title": "A Man’s a Man for A’ That",
-    "author": "Robert Burns",
     "tags": [
       "Scottish",
-      "Rebel / Political",
-      "Robert Burns"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Across the Western Plains",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
     ]
   },
   {
     "title": "Agamemnon",
-    "author": "Cyril Tawney",
     "tags": [
       "English",
       "Maritime",
-      "Humorous",
-      "Cyril Tawney"
+      "Humorous"
     ]
   },
   {
     "title": "All for Me Grog",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Amble Town",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "Anderson's Coast",
-    "author": "John Warner",
     "tags": [
       "Australian",
       "Maritime",
-      "Convict / Transportation",
-      "John Warner"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "The Antarctic Fleet",
-    "author": "John Warner",
     "tags": [
       "Maritime",
-      "Hard Times",
-      "John Warner"
+      "Hard Times"
     ]
   },
   {
     "title": "Antiguan Graveyard",
-    "author": "Ian Giles / Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Ian Giles / Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Any Old Land",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
     ]
   },
   {
     "title": "Archimedes (The Lever)",
-    "author": "Les Barker",
     "tags": [
       "Humorous",
-      "Contemporary Folk",
-      "Les Barker"
+      "Contemporary Folk"
     ]
   },
   {
     "title": "As I Was Going to Banbury",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Auld Lang Syne",
-    "author": "Robert Burns",
     "tags": [
       "Scottish",
-      "Chorus-Heavy",
-      "Robert Burns"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Auld Triangle",
-    "author": "Dominic Behan",
     "tags": [
       "Irish",
       "Hard Times",
-      "Chorus-Heavy",
-      "Dominic Behan"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Away to the South’ard",
-    "author": "Harry Robertson",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Harry Robertson"
+      "Shanty"
     ]
   },
   {
     "title": "Ballina Whalers",
-    "author": "Harry Robertson",
     "tags": [
       "Australian",
       "Maritime",
-      "Hard Times",
-      "Harry Robertson"
+      "Hard Times"
     ]
   },
   {
     "title": "Bamfield’s John Vanden",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Banks of the Brisbane River",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "The Banks of the Sacramento",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Barge Ballad",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "The Barleymow",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Barrett’s Privateers",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Stan Rogers"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Bay of Suvla",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Becalmed",
-    "author": "Cyril Tawney",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Cyril Tawney"
+      "Ballad"
     ]
   },
   {
     "title": "Being a Pirate",
-    "author": "Tom Smith",
     "tags": [
       "Humorous",
-      "Maritime",
-      "Tom Smith"
+      "Maritime"
     ]
   },
   {
     "title": "The Bellringing",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Ben Backstay",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Big Bow Wow",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Birthday Shant",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Black Ball Line",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Black Velvet Band",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "English",
       "Australian",
-      "Convict / Transportation",
-      "Traditional"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "Blood Red Roses",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Blood Red Roses – NZ Version",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Blow the Man Down",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Blue-Eyed Nancy",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Bold Fisherman",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Myth & Legend",
-      "Traditional"
+      "Myth & Legend"
     ]
   },
   {
     "title": "Bold Riley",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Bones in the Ocean",
-    "author": "The Longest Johns",
     "tags": [
       "Maritime",
-      "Ballad",
-      "The Longest Johns"
+      "Ballad"
     ]
   },
   {
     "title": "Boney was a Warrior",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Bonny Light Horseman",
-    "author": "Traditional",
     "tags": [
       "English",
       "Irish",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Bonny Ship the Diamond",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Botany Bay",
-    "author": "Traditional",
     "tags": [
       "English",
       "Australian",
       "Convict / Transportation",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Brave Benbow",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "Bring Us in Good Ale",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Brisbane Harbour",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "Brisbane Ladies",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Bush",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Brisbane River",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "The British Grenadiers",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Bully in the Alley (v1)",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Bully in the Alley (v2)",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Bury Me Beneath The Willow",
-    "author": "Traditional",
     "tags": [
       "North American",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Byker Hill",
-    "author": "Traditional",
     "tags": [
       "English",
       "Hard Times",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Captain Kidd",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Captain’s Daughter",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Catalpa",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Maritime",
-      "Rebel / Political",
-      "Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Charlie Mops",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Cheerlyman",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Chemical Worker’s Song",
-    "author": "Ron Angel",
     "tags": [
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Ron Angel"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Chicken on a Raft",
-    "author": "Cyril Tawney",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Cyril Tawney"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Clasped to the Pig",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Come All Ye Tonguers",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Come and be Welcome",
-    "author": "Traditional",
     "tags": [
       "Chorus-Heavy",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Come O’er the Stream Charlie",
-    "author": "James Hogg",
     "tags": [
       "Scottish",
-      "Rebel / Political",
-      "James Hogg"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Come, Landlord Fill the Flowing Bowl",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Corncrake",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Crooked Jack",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Hard Times",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Crossing the Bar",
-    "author": "Alfred, Lord Tennyson",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Alfred, Lord Tennyson"
+      "Ballad"
     ]
   },
   {
     "title": "The Cuckoo’s Nest",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "The Curse",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
     ]
   },
   {
     "title": "Dance Up The Sun",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Myth & Legend",
-      "Traditional"
+      "Myth & Legend"
     ]
   },
   {
     "title": "Danny Boy",
-    "author": "Frederic Weatherly",
     "tags": [
       "Irish",
-      "Ballad",
-      "Frederic Weatherly"
+      "Ballad"
     ]
   },
   {
     "title": "The Dead Horse Shanty",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Deep Blue Sea",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Derby Ram",
-    "author": "Traditional",
     "tags": [
       "English",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Derelict",
-    "author": "Young E. Allison",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Young E. Allison"
+      "Ballad"
     ]
   },
   {
     "title": "Dirty Old Town",
-    "author": "Ewan MacColl",
     "tags": [
       "English",
-      "Hard Times",
-      "Ewan MacColl"
+      "Hard Times"
     ]
   },
   {
     "title": "Do You Hear The People Sing?",
-    "author": "Claude-Michel Schönberg / Alain Boublil",
     "tags": [
       "Rebel / Political",
-      "Chorus-Heavy",
-      "Claude-Michel Schönberg / Alain Boublil"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Donald, Where's your Troosers",
-    "author": "Andy Stewart / Neil Grant",
     "tags": [
       "Scottish",
       "Humorous",
-      "Chorus-Heavy",
-      "Andy Stewart / Neil Grant"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Donkey Riding",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Don’t Forget Your Old Shipmate",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Doon in the Wee Room",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Downed and Drowned",
-    "author": "The Longest Johns",
     "tags": [
       "Maritime",
-      "Contemporary",
-      "The Longest Johns"
+      "Contemporary"
     ]
   },
   {
     "title": "Drink Up Thy Zider",
-    "author": "Adge Cutler",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Adge Cutler"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Drowned Lovers",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Drunken Sailor (v1)",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Drunken Sailor (v2)",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Drunken Scotsman",
-    "author": "Mike Cross",
     "tags": [
       "Scottish",
       "Humorous",
-      "Drinking Song",
-      "Mike Cross"
+      "Drinking Song"
     ]
   },
   {
     "title": "The Eddystone Light",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "El Fusilado",
-    "author": "Chumbawamba",
     "tags": [
       "Rebel / Political",
-      "Ballad",
-      "Chumbawamba"
+      "Ballad"
     ]
   },
   {
     "title": "English Ale",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Essequibo River",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Essex",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Excursion Around the Bay",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Fall Down Me Billy",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Bush",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Fare Thee Well",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Farewell to Nova Scotia",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Farewell to the Gold",
-    "author": "Paul Metsers",
     "tags": [
       "Australian",
       "Hard Times",
-      "Ballad",
-      "Paul Metsers"
+      "Ballad"
     ]
   },
   {
     "title": "Fathom the Bowl",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Fiddler’s Green",
-    "author": "John Conolly",
     "tags": [
       "Maritime",
       "Ballad",
-      "Chorus-Heavy",
-      "John Conolly"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Fields of Athenry",
-    "author": "Pete St. John",
     "tags": [
       "Irish",
       "Hard Times",
-      "Convict / Transportation",
-      "Pete St. John"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "The Final Trawl",
-    "author": "Archie Fisher",
-    "tags": [
-      "North American",
-      "Archie Fisher"
-    ]
+    "tags": ["North American"]
   },
   {
     "title": "Finnegan’s Wake",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Humorous",
-      "Drinking Song",
-      "Traditional"
+      "Drinking Song"
     ]
   },
   {
     "title": "Fire Marengo",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Fire, Fire, Fire Down Below",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Fish in the Sea",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Flower of Scotland",
-    "author": "Roy Williamson",
     "tags": [
       "Scottish",
       "Rebel / Political",
-      "Chorus-Heavy",
-      "Roy Williamson"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Foggy Dew",
-    "author": "Canon Charles O'Neill",
     "tags": [
       "Irish",
       "Rebel / Political",
-      "Ballad",
-      "Canon Charles O'Neill"
+      "Ballad"
     ]
   },
   {
     "title": "Follow the Heron",
-    "author": "Karine Polwart",
     "tags": [
       "Scottish",
-      "Ballad",
-      "Karine Polwart"
+      "Ballad"
     ]
   },
   {
     "title": "Four Hours",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Fox",
-    "author": "Traditional",
     "tags": [
       "English",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Frobisher Bay",
-    "author": "James Gordon",
     "tags": [
       "North American",
       "Maritime",
-      "Hard Times",
-      "James Gordon"
+      "Hard Times"
     ]
   },
   {
     "title": "The Gals of Chile",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Galway Shawl",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "General Taylor",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Go and ‘List for a Sailor",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "Go to Sea No More",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Goodbye, Fare Thee Well",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Grace",
-    "author": "Frank and Seán O'Meara",
     "tags": [
       "Irish",
       "Rebel / Political",
-      "Ballad",
-      "Frank and Seán O'Meara"
+      "Ballad"
     ]
   },
   {
     "title": "The Green Fields of France",
-    "author": "Eric Bogle",
     "tags": [
       "Scottish",
       "Irish",
       "Hard Times",
-      "Ballad",
-      "Eric Bogle"
+      "Ballad"
     ]
   },
   {
     "title": "The Green Man",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Myth & Legend",
-      "Traditional"
+      "Myth & Legend"
     ]
   },
   {
     "title": "Greenland Whale Fisheries",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Grey Funnel Line",
-    "author": "Cyril Tawney",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Cyril Tawney"
+      "Ballad"
     ]
   },
   {
     "title": "Grimsby Lads",
-    "author": "John Conolly",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "John Conolly"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hanging Johnny",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Happy Man",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Hard on the Beach Oar - Shawnee Town",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Hard Times Come Again No More",
-    "author": "Stephen Foster",
     "tags": [
       "North American",
       "Hard Times",
-      "Ballad",
-      "Stephen Foster"
+      "Ballad"
     ]
   },
   {
     "title": "Haul Away Joe",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Haul on the Bowline",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Heave Away",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hej Sokoły",
-    "author": "Maciej Kamieński / Timofey Padura",
-    "tags": [
-      "Polish",
-      "Ukrainian",
-      "Ballad",
-      "Maciej Kamieński / Timofey Padura"
-    ]
+    "tags": []
   },
   {
     "title": "Henry Martin",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Here’s a Health to the Company",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Scottish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hey Rain",
-    "author": "Bill Scott",
     "tags": [
       "Australian",
-      "Hard Times",
-      "Bill Scott"
+      "Hard Times"
     ]
   },
   {
     "title": "Hieland Laddie",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "High Barbary",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
       "Ballad",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hills of Connemara",
-    "author": "Sean McCarthy",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Sean McCarthy"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hog Eye Man",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Hoist the Colours",
-    "author": "Hans Zimmer / Gore Verbinski / Ted Elliott / Terry Rossio",
     "tags": [
       "Maritime",
-      "Chorus-Heavy",
-      "Hans Zimmer / Gore Verbinski / Ted Elliott / Terry Rossio"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Hoist up the Thing",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Holy Ground",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Home from the Sea",
-    "author": "Phil Coulter",
     "tags": [
       "Scottish",
       "Maritime",
-      "Ballad",
-      "Phil Coulter"
+      "Ballad"
     ]
   },
   {
     "title": "Homeless Beaver",
-    "author": "Traditional",
     "tags": [
       "North American",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Horo Johnny",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Husbandman and the Servingman",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "I Beg Your Leave",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "I Can Hew",
-    "author": "Richard Grainger",
     "tags": [
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Richard Grainger"
+      "Rebel / Political"
     ]
   },
   {
     "title": "I Never Knew Her Name",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
     ]
   },
   {
     "title": "I'm a Rover",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Icy Acres",
-    "author": "Traditional",
     "tags": [
       "North American",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "The Idiot",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Ballad",
-      "Stan Rogers"
+      "Ballad"
     ]
   },
   {
     "title": "In Kirkintilloch There's Nae Pubs",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Humorous",
-      "Drinking Song",
-      "Traditional"
+      "Drinking Song"
     ]
   },
   {
     "title": "It’s a Long Way to Tipperary",
-    "author": "Jack Judge / Harry Williams",
     "tags": [
       "Irish",
-      "Chorus-Heavy",
-      "Jack Judge / Harry Williams"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "I’ll Fly Away",
-    "author": "Albert E. Brumley",
     "tags": [
       "North American",
-      "Chorus-Heavy",
-      "Albert E. Brumley"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "I’ll Tell Me Ma",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Jack Was Every Inch a Sailor",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Jim’s Bike",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Humorous",
-      "Contemporary Folk",
-      "Traditional"
+      "Contemporary Folk"
     ]
   },
   {
     "title": "Johnny Be Fair",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Johnny Come Down to Hilo",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Johnny I Hardly Knew Ye",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Hard Times",
-      "Rebel / Political",
-      "Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Joli Rouge",
-    "author": "The Dreadnoughts",
     "tags": [
       "Maritime",
-      "Drinking Song",
-      "The Dreadnoughts"
+      "Drinking Song"
     ]
   },
   {
     "title": "Jolly Roving Tar",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Joy of my Heart",
-    "author": "Sir Hugh S. Roberton",
-    "tags": [
-      "Scottish",
-      "Chorus-Heavy",
-      "Sir Hugh S. Roberton"
-    ]
+    "tags": []
   },
   {
     "title": "Jutland",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Last Brisbane Pirate",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Maritime",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "The Last Saskatchewan Pirate",
-    "author": "Arrogant Worms",
     "tags": [
       "North American",
       "Maritime",
-      "Humorous",
-      "Arrogant Worms"
+      "Humorous"
     ]
   },
   {
     "title": "The Last Shanty",
-    "author": "Tom Lewis",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Tom Lewis"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Le Capitaine De Saint-Malo",
-    "author": "Traditional",
     "tags": [
       "French",
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Leave Her Johnny",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Leaving of Liverpool",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Lee Fore Brace",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Let the Bulgine Run - Eliza Lee",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Lifeboat Man",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Lincolnshire Poacher",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Little Boy Billee",
-    "author": "William Makepeace Thackeray",
     "tags": [
       "English",
-      "Humorous",
-      "William Makepeace Thackeray"
+      "Humorous"
     ]
   },
   {
     "title": "Little Brown Jug",
-    "author": "Joseph Winner",
     "tags": [
       "North American",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Joseph Winner"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Loch Lomond",
-    "author": "Traditional",
     "tags": [
       "Scottish",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Lock Keeper",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Ballad",
-      "Stan Rogers"
+      "Ballad"
     ]
   },
   {
     "title": "The Lollypop Man",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Lovers and Friends",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Lowlands Away",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Lowlands Low",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "MacPherson's Rant",
-    "author": "James Macpherson",
     "tags": [
       "Scottish",
       "Rebel / Political",
-      "Ballad",
-      "James Macpherson"
+      "Ballad"
     ]
   },
   {
     "title": "Maggie May",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Convict / Transportation",
-      "Traditional"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "Magpie",
-    "author": "Dave Dodds",
     "tags": [
       "Australian",
-      "Bush",
-      "Dave Dodds"
+      "Bush"
     ]
   },
   {
     "title": "Maid in the Garrett",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Maid of Amsterdam (A-Rovin’)",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Maid on the Shore",
-    "author": "Traditional",
     "tags": [
       "English",
       "Myth & Legend",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Mainsail Haul",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Mairi’s Wedding",
-    "author": "John Roderick Bannerman",
     "tags": [
       "Scottish",
-      "Chorus-Heavy",
-      "John Roderick Bannerman"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Maiwar",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
+    ]
+  },
+  {
+    "title": "Make and Break Harbour",
+    "tags": [
+      "North American",
+      "Maritime",
+      "Hard Times"
     ]
   },
   {
     "title": "Make And Break Harbour",
-    "author": "Stan Rogers",
-    "tags": [
-      "North American",
-      "Maritime",
-      "Hard Times",
-      "Stan Rogers"
-    ]
+    "tags": []
   },
   {
     "title": "Man of the Earth",
-    "author": "Allan Taylor",
     "tags": [
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Allan Taylor"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Marching Inland",
-    "author": "Tom Lewis",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Tom Lewis"
+      "Ballad"
     ]
   },
   {
     "title": "Mari-Mac",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Mary Ellen Carter",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Stan Rogers"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "McGinty’s Meal and Ale",
-    "author": "George Bruce Thomson",
     "tags": [
       "Scottish",
       "Humorous",
-      "Drinking Song",
-      "George Bruce Thomson"
+      "Drinking Song"
     ]
   },
   {
     "title": "The Mermaid",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
       "Myth & Legend",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Mingulay Boat Song",
-    "author": "Sir Hugh S. Roberton",
     "tags": [
       "Scottish",
       "Maritime",
-      "Chorus-Heavy",
-      "Sir Hugh S. Roberton"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Mining for Gold - Chemical Worker's Song",
-    "author": "Traditional / Ron Angel",
     "tags": [
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Traditional / Ron Angel"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Molly Malone",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Hard Times",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Mollymauk",
-    "author": "Bob Zentz",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Bob Zentz"
+      "Ballad"
     ]
   },
   {
     "title": "Moreton Bay",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Convict / Transportation",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Mountain Dew",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Mull of Kintyre",
-    "author": "Paul McCartney / Denny Laine",
     "tags": [
       "Scottish",
-      "Chorus-Heavy",
-      "Paul McCartney / Denny Laine"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "My Jolly Sailor Bold",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "My Name is Jock Stewart",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "My Son John",
-    "author": "Traditional",
     "tags": [
       "English",
       "Hard Times",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Nancy Whisky",
-    "author": "Traditional",
     "tags": [
       "Scottish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Nelson’s Victory at Copenhagen",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "New York Girls",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Noah’s Ark Shanty",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Northwest Passage",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Stan Rogers"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "O Good Ale, You Are My Darling",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Oak and Ash and Thorn",
-    "author": "Rudyard Kipling / Peter Bellamy",
     "tags": [
       "English",
       "Myth & Legend",
-      "Chorus-Heavy",
-      "Rudyard Kipling / Peter Bellamy"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Old Billy Riley",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Old Dun Cow",
-    "author": "Harry Wincott",
     "tags": [
       "English",
       "Humorous",
-      "Drinking Song",
-      "Harry Wincott"
+      "Drinking Song"
     ]
   },
   {
     "title": "Old Fid",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Old Man From Over the Sea",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Old Maui",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Old Molly Metcalfe",
-    "author": "Jake Thackray",
     "tags": [
       "English",
       "Hard Times",
-      "Ballad",
-      "Jake Thackray"
+      "Ballad"
     ]
   },
   {
     "title": "On the Railroad",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Hard Times",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "One Hundred Feet",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "One More Day Johnny",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "One More Pull",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "The Orca's Revenge",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Pack Up Your Troubles",
-    "author": "George Henry Powell / Felix Powell",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "George Henry Powell / Felix Powell"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Paddy Lay Back",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Paddy West",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Maritime",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Paddy's Green Shamrock Shore",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Paddy's Lamentation",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Hard Times",
-      "Rebel / Political",
-      "Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Padstow Farewell",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Parting Glass",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Scottish",
-      "Drinking Song",
-      "Traditional"
+      "Drinking Song"
     ]
   },
   {
     "title": "The Parting Song",
-    "author": "Traditional",
     "tags": [
       "Ballad",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Pass Around the Grog Me Boys",
-    "author": "Traditional",
     "tags": [
       "Drinking Song",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Peat Fire Flame",
-    "author": "Traditional",
     "tags": [
       "Scottish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Pique la Baleine",
-    "author": "Traditional",
     "tags": [
       "French",
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Pleasant and Delightful",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Poor Paddy Works on the Railway",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Hard Times",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Pound a Week Rise",
-    "author": "Ed Pickford",
     "tags": [
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Ed Pickford"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Pride of the White Star Line",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Maritime",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Pump Shanty",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Queen of Argyle",
-    "author": "Andy M. Stewart",
     "tags": [
       "Scottish",
-      "Ballad",
-      "Andy M. Stewart"
+      "Ballad"
     ]
   },
   {
     "title": "Rambling Rover",
-    "author": "Andy M. Stewart",
     "tags": [
       "Scottish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Andy M. Stewart"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Randy Dandy O",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Rattle ‘Em Winches",
-    "author": "Harry Robertson",
     "tags": [
       "Maritime",
-      "Chorus-Heavy",
-      "Harry Robertson"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Rattling Bog",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Red is the Rose",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Reedy River",
-    "author": "Henry Lawson",
     "tags": [
       "Australian",
       "Bush",
-      "Ballad",
-      "Henry Lawson"
+      "Ballad"
     ]
   },
   {
     "title": "The Reluctant Shanty",
-    "author": "Tom Lewis",
     "tags": [
       "Maritime",
       "Shanty",
-      "Humorous",
-      "Tom Lewis"
+      "Humorous"
     ]
   },
   {
     "title": "Retirement Song",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Rio Grande",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "River Driver",
-    "author": "Traditional",
     "tags": [
       "North American",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Robert Whitworth",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Bush",
-      "Traditional"
+      "Bush"
     ]
   },
   {
     "title": "The Rocky Road to Dublin",
-    "author": "D. K. Gavan",
     "tags": [
       "Irish",
-      "Ballad",
-      "D. K. Gavan"
+      "Ballad"
     ]
   },
   {
     "title": "Roll Alabama Roll",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Roll Northumbria",
-    "author": "Brian Watson",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Brian Watson"
+      "Ballad"
     ]
   },
   {
     "title": "Roll the Old Chariot",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Roll the Woodpile Down",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Rollicking Boys Around Tandragee",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Rolling Down the River",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Rolling Home",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Rosin the Beau",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Row Me Bully Boys Row",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Rueben Ranzo",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Running Down to Cuba",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Rye Whiskey",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Sailing Over the Doggerbank",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Maritime",
-      "Traditional"
+      "Maritime"
     ]
   },
   {
     "title": "The Sailor Loves the Botte-O",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Maritime",
-      "Drinking Song",
-      "Traditional"
+      "Drinking Song"
     ]
   },
   {
     "title": "Sailor Town",
-    "author": "Cicely Fox Smith",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Cicely Fox Smith"
+      "Ballad"
     ]
   },
   {
     "title": "Sailor’s Prayer",
-    "author": "Tom Lewis",
     "tags": [
       "English",
       "Maritime",
-      "Ballad",
-      "Tom Lewis"
+      "Ballad"
     ]
   },
   {
     "title": "Sally Brown",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Sam the Skull",
-    "author": "Matt McGinn",
     "tags": [
       "Scottish",
-      "Humorous",
-      "Matt McGinn"
+      "Humorous"
     ]
   },
   {
     "title": "Sammy's Bar",
-    "author": "Cyril Tawney",
     "tags": [
       "English",
-      "Drinking Song",
-      "Cyril Tawney"
+      "Drinking Song"
     ]
   },
   {
     "title": "Sam’s Gone Away",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Santiana",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Seven Drunken Nights",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Humorous",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Shallow Brown",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Shantyman",
-    "author": "John Conolly",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "John Conolly"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Shenandoah",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Shiney-O",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Ship Repairing Men",
-    "author": "Harry Robertson",
     "tags": [
       "English",
       "Maritime",
       "Hard Times",
-      "Rebel / Political",
-      "Harry Robertson"
+      "Rebel / Political"
     ]
   },
   {
     "title": "The Shoals of Herring",
-    "author": "Ewan MacColl",
     "tags": [
       "English",
       "Maritime",
       "Hard Times",
-      "Chorus-Heavy",
-      "Ewan MacColl"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Shores of Botany Bay",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Australian",
       "Convict / Transportation",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
+  },
+  {
+    "title": "Shores of Botany Bay",
+    "tags": []
   },
   {
     "title": "The Sinking Of The Reuben James",
-    "author": "Woody Guthrie",
-    "tags": [
-      "North American",
-      "Maritime",
-      "Hard Times",
-      "Woody Guthrie"
-    ]
+    "tags": []
   },
   {
     "title": "Sixteen Tons",
-    "author": "Merle Travis",
     "tags": [
       "North American",
       "Hard Times",
-      "Rebel / Political",
-      "Merle Travis"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Skye Boat Song, The (v1)",
-    "author": "Sir Harold Boulton / Traditional",
     "tags": [
       "Scottish",
       "Ballad",
-      "Rebel / Political",
-      "Sir Harold Boulton / Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Skye Boat Song, The (v2)",
-    "author": "Sir Harold Boulton / Traditional",
     "tags": [
       "Scottish",
       "Ballad",
-      "Rebel / Political",
-      "Sir Harold Boulton / Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Sloop John B",
-    "author": "Traditional",
     "tags": [
       "North American",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "South Australia",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Spanish Ladies",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "St Helena",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Convict / Transportation",
-      "Traditional"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "Star of the County Down",
-    "author": "Traditional",
     "tags": [
       "Irish",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Street Cries",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Streets of London",
-    "author": "Ralph McTell",
     "tags": [
       "English",
-      "Hard Times",
-      "Ralph McTell"
+      "Hard Times"
     ]
   },
   {
     "title": "Strike the Bell",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Suez Canal",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Contemporary",
-      "Traditional"
+      "Contemporary"
     ]
   },
   {
     "title": "Sugar in the Hold",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Tatties an’ Herrin’",
-    "author": "Traditional",
     "tags": [
       "Scottish",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Ten Thousand Miles Away",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
-      "Convict / Transportation",
-      "Traditional"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "Thousands or More",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Three Drunken Huntsmen",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Three Score and Ten",
-    "author": "William Delaney",
     "tags": [
       "English",
       "Maritime",
       "Hard Times",
-      "Chorus-Heavy",
-      "William Delaney"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Tom Paine’s Bones",
-    "author": "Graham Moore",
     "tags": [
       "English",
       "Rebel / Political",
-      "Chorus-Heavy",
-      "Graham Moore"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Transports Shanty",
-    "author": "Traditional",
     "tags": [
       "English",
       "Australian",
-      "Convict / Transportation",
-      "Traditional"
+      "Convict / Transportation"
     ]
   },
   {
     "title": "Travelling through the Storm",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Hard Times",
-      "Traditional"
+      "Hard Times"
     ]
   },
   {
     "title": "Turmut Hoer, The",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "Turning Steel",
-    "author": "Traditional",
     "tags": [
       "Australian",
       "Hard Times",
-      "Rebel / Political",
-      "Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Twa Bonnie Maids (Isle of Skye)",
-    "author": "Traditional",
     "tags": [
       "Scottish",
-      "Rebel / Political",
-      "Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Twiddles",
-    "author": "Traditional",
     "tags": [
       "Australian",
-      "Humorous",
-      "Traditional"
+      "Humorous"
     ]
   },
   {
     "title": "The Two Magicians",
-    "author": "Traditional",
     "tags": [
       "English",
       "Scottish",
       "Myth & Legend",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Two Sisters",
-    "author": "Traditional",
     "tags": [
       "English",
       "Myth & Legend",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "Unison in Harmony",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Up And Away",
-    "author": "Traditional",
     "tags": [
-      "Contemporary Folk",
-      "Traditional"
+      "Contemporary Folk"
     ]
   },
   {
     "title": "Wagon Wheel",
-    "author": "Bob Dylan / Ketch Secor",
     "tags": [
       "North American",
-      "Chorus-Heavy",
-      "Bob Dylan / Ketch Secor"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Wee Pot Stove",
-    "author": "Harry Robertson",
     "tags": [
       "Scottish",
       "Hard Times",
-      "Ballad",
-      "Harry Robertson"
+      "Ballad"
     ]
   },
   {
     "title": "The Wellerman",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "We’re All Good Mates",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "When Jones’ Ale was New",
-    "author": "Traditional",
     "tags": [
       "English",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Where Am I to Go Me Johnnies",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Whiskey in the Jar",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Whiskey is the Life of Man",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Drinking Song",
-      "Traditional"
+      "Drinking Song"
     ]
   },
   {
     "title": "Whiskey, You’re the Devil",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "White Squall",
-    "author": "Stan Rogers",
     "tags": [
       "North American",
       "Maritime",
-      "Ballad",
-      "Stan Rogers"
+      "Ballad"
     ]
   },
   {
     "title": "Whup Jamboree",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Wild Goose Shanty",
-    "author": "Traditional",
     "tags": [
       "Maritime",
       "Shanty",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Wild Mountain Thyme",
-    "author": "Francis McPeake / Traditional",
     "tags": [
       "Scottish",
       "Irish",
-      "Chorus-Heavy",
-      "Francis McPeake / Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "The Wild Rover",
-    "author": "Traditional",
     "tags": [
       "Irish",
       "Drinking Song",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "William Taylor",
-    "author": "Traditional",
     "tags": [
       "English",
-      "Ballad",
-      "Traditional"
+      "Ballad"
     ]
   },
   {
     "title": "The Witch of the Westmorland",
-    "author": "Archie Fisher",
     "tags": [
       "English",
       "Myth & Legend",
-      "Ballad",
-      "Archie Fisher"
+      "Ballad"
     ]
   },
   {
     "title": "The Workers Song",
-    "author": "Ed Pickford",
     "tags": [
       "Scottish",
       "English",
       "Hard Times",
-      "Rebel / Political",
-      "Ed Pickford"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Working Man",
-    "author": "Rita MacNeil",
     "tags": [
       "English",
       "Hard Times",
-      "Ballad",
-      "Rita MacNeil"
+      "Ballad"
     ]
   },
   {
     "title": "The Worst Old Ship",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Yankee John Stormalong",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   },
   {
     "title": "Yarmouth Town",
-    "author": "Traditional",
     "tags": [
       "English",
       "Maritime",
       "Humorous",
-      "Chorus-Heavy",
-      "Traditional"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "Ye Jacobite's by Name",
-    "author": "Robert Burns / Traditional",
     "tags": [
       "Scottish",
-      "Rebel / Political",
-      "Robert Burns / Traditional"
+      "Rebel / Political"
     ]
   },
   {
     "title": "Yellow Submarine",
-    "author": "Paul McCartney / John Lennon",
     "tags": [
       "Humorous",
-      "Chorus-Heavy",
-      "Paul McCartney / John Lennon"
+      "Chorus-Heavy"
     ]
   },
   {
     "title": "You Hilo Man",
-    "author": "Traditional",
     "tags": [
       "Maritime",
-      "Shanty",
-      "Traditional"
+      "Shanty"
     ]
   }
 ]
