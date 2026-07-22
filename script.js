@@ -294,14 +294,6 @@ function closeFAQ() {
     document.getElementById('faq-modal').classList.remove('open');
 }
 
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-            .then(reg => console.log('Service Worker Registered'))
-            .catch(err => console.log('Service Worker Failed', err));
-    });
-}
-
 function getRandomFavorite() {
     const favoriteSections = Array.from(document.querySelectorAll('.song-chunk'))
         .filter(s => favorites.includes(s.id));
@@ -320,4 +312,28 @@ function getRandomFavorite() {
     target.classList.add('highlight-target');
 
     toggleOptions();
+}
+
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').then(reg => {
+            console.log('Service Worker Registered');
+
+            // Check for service worker updates immediately
+            reg.update();
+
+            // Automatically reload the page when a new SW takes over
+            reg.onupdatefound = () => {
+                const installingWorker = reg.installing;
+                if (installingWorker) {
+                    installingWorker.onstatechange = () => {
+                        if (installingWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                            console.log('New content available, reloading...');
+                            window.location.reload();
+                        }
+                    };
+                }
+            };
+        }).catch(err => console.log('Service Worker Failed', err));
+    });
 }

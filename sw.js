@@ -1,4 +1,4 @@
-const cacheName = 'focsle-v20';
+const cacheName = 'focsle-v21'; // Bump version
 const assets = [
   './',
   './index.html',
@@ -9,8 +9,9 @@ const assets = [
   './favicon.png'
 ];
 
-// Install Service Worker
+// Install Service Worker & Force Activation
 self.addEventListener('install', evt => {
+  self.skipWaiting(); // Skip waiting room and activate immediately
   evt.waitUntil(
     caches.open(cacheName).then(cache => {
       cache.addAll(assets);
@@ -18,25 +19,7 @@ self.addEventListener('install', evt => {
   );
 });
 
-// Fetching assets - Smart matching for query strings and subdirectories
-self.addEventListener('fetch', evt => {
-  // Create a clean URL object from the request
-  const requestUrl = new URL(evt.request.url);
-
-  // Strip query parameters (?v=11) so it matches the asset array cache key
-  const cleanPath = requestUrl.pathname.endsWith('/')
-    ? './'
-    : './' + requestUrl.pathname.split('/').pop();
-
-  evt.respondWith(
-    caches.match(cleanPath).then(cachedResponse => {
-      // Return the cached file if found, otherwise hit the network
-      return cachedResponse || fetch(evt.request);
-    })
-  );
-});
-
-// Activate Service Worker and clear old caches
+// Activate Service Worker, clear old caches, & take control immediately
 self.addEventListener('activate', evt => {
   evt.waitUntil(
     caches.keys().then(keys => {
@@ -45,6 +28,37 @@ self.addEventListener('activate', evt => {
           .filter(key => key !== cacheName)
           .map(key => caches.delete(key))
       );
+    }).then(() => self.clients.claim()) // Claim all open PWA windows immediately
+  );
+});
+
+// Fetching assets
+self.addEventListener('fetch', evt => {
+  const requestUrl = new URL(evt.request.url);
+
+  // Network-First for HTML/Page Navigations (Ensures latest version is fetched)
+  if (evt.request.mode === 'navigate' || requestUrl.pathname.endsWith('index.html')) {
+    evt.respondWith(
+      fetch(evt.request)
+        .then(networkResponse => {
+          return caches.open(cacheName).then(cache => {
+            cache.put(evt.request, networkResponse.clone());
+            return networkResponse;
+          });
+        })
+        .catch(() => caches.match(evt.request))
+    );
+    return;
+  }
+
+  // Cache-First for static assets
+  const cleanPath = requestUrl.pathname.endsWith('/')
+    ? './'
+    : './' + requestUrl.pathname.split('/').pop();
+
+  evt.respondWith(
+    caches.match(cleanPath).then(cachedResponse => {
+      return cachedResponse || fetch(evt.request);
     })
   );
 });
