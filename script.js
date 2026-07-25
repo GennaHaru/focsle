@@ -161,7 +161,7 @@ async function loadSongs() {
             return `
                 <section class="song-chunk" id="${s.id}" data-tags="${(s.tags || []).join(',')}">
                     <h1>${s.title} <button class="fav-btn ${isFav ? 'heart-full' : 'heart-empty'}" onclick="toggleFavorite('${s.id}', event)">${isFav ? '❤️' : '🤍'}</button></h1>
-                    ${s.author ? `<div class="song-author">By ${s.author}</div>` : ''}
+                    ${s.author ? `<div class="song-author"> ${s.author}</div>` : ''}
                     <div class="lyrics">${s.lyrics}</div>
                     <a href="#songSearch" class="back-to-top">↑ Back to table of contents</a>
                 </section>
