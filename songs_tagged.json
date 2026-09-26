@@ -379,7 +379,11 @@
   },
   {
     "title": "Bonny Moorhen",
-    "tags": []
+    "author": "Traditional",
+    "tags": [
+      "Scottish",
+      "Ballad"
+      ]
   },
   {
     "title": "Bonny Ship the Diamond",
@@ -1844,10 +1848,6 @@
     ]
   },
   {
-    "title": "Make and Break Harbour",
-    "tags": []
-  },
-  {
     "title": "Man of the Earth",
     "author": "Allan Taylor",
     "tags": [
@@ -2741,10 +2741,7 @@
       "Traditional"
     ]
   },
-  {
-    "title": "Shores of Botany Bay",
-    "tags": []
-  },
+
   {
     "title": "The Sinking Of The Reuben James",
     "author": "Woody Guthrie",
@@ -2903,7 +2900,11 @@
   },
   {
     "title": "There is Power in a Union",
-    "tags": []
+    "author": "Billy Bragg",
+    "tags": [
+    "Rebel / Political",
+    "Contemporary Folk"
+    ]
   },
   {
     "title": "Thousands or More",
