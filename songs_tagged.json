@@ -383,7 +383,7 @@
     "tags": [
       "Scottish",
       "Ballad"
-      ]
+    ]
   },
   {
     "title": "Bonny Ship the Diamond",
@@ -1838,7 +1838,7 @@
     ]
   },
   {
-    "title": "Make And Break Harbour",
+    "title": "Make and Break Harbour",
     "author": "Stan Rogers",
     "tags": [
       "North American",
@@ -2741,7 +2741,10 @@
       "Traditional"
     ]
   },
-
+  {
+    "title": "Shores of Botany Bay",
+    "tags": []
+  },
   {
     "title": "The Sinking Of The Reuben James",
     "author": "Woody Guthrie",
@@ -2902,8 +2905,8 @@
     "title": "There is Power in a Union",
     "author": "Billy Bragg",
     "tags": [
-    "Rebel / Political",
-    "Contemporary Folk"
+      "Rebel / Political",
+      "Contemporary Folk"
     ]
   },
   {
