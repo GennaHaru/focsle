@@ -361,3 +361,10 @@ body.dark-mode { background: #1a1a1a !important; color: #e0e0e0 !important; }
 #clear-search-btn:hover {
     background: #555555;
 }
+
+.schedule-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 10px 0;
+}
