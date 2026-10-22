@@ -77,11 +77,12 @@
   },
   {
     "title": "Antiguan Graveyard",
-    "author": "Ian Giles / Traditional",
+    "author": "Kate Locksley ",
     "tags": [
+      "English",
       "Maritime",
       "Ballad",
-      "Ian Giles / Traditional"
+      "Kate Locksley "
     ]
   },
   {
@@ -97,6 +98,7 @@
     "title": "Archimedes (The Lever)",
     "author": "Les Barker",
     "tags": [
+      "English",
       "Humorous",
       "Contemporary Folk",
       "Les Barker"
@@ -134,6 +136,7 @@
     "title": "Away to the South’ard",
     "author": "Harry Robertson",
     "tags": [
+      "Australian",
       "Maritime",
       "Shanty",
       "Harry Robertson"
@@ -160,17 +163,18 @@
   },
   {
     "title": "The Banks of the Brisbane River",
-    "author": "Traditional",
+    "author": "John Thompson",
     "tags": [
       "Australian",
       "Maritime",
-      "Traditional"
+      "John Thompson"
     ]
   },
   {
     "title": "The Banks of the Sacramento",
     "author": "Traditional",
     "tags": [
+      "North American"
       "Maritime",
       "Shanty",
       "Chorus-Heavy",
@@ -228,6 +232,7 @@
     "title": "Being a Pirate",
     "author": "Tom Smith",
     "tags": [
+      "North American",
       "Humorous",
       "Maritime",
       "Tom Smith"
@@ -274,6 +279,7 @@
     "title": "The Black Ball Line",
     "author": "Traditional",
     "tags": [
+      "English",
       "Maritime",
       "Shanty",
       "Chorus-Heavy",
@@ -577,6 +583,15 @@
     ]
   },
   {
+    "title": "Colours",
+    "author": "Paul Simmonds",
+    "tags": [
+    "English",
+    "Rebel / Political",
+    "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Come All Ye Tonguers",
     "author": "Traditional",
     "tags": [
@@ -627,7 +642,7 @@
     "title": "Crooked Jack",
     "author": "Dominic Behan",
     "tags": [
-      "Scottish",
+      "Irish",
       "Hard Times",
       "Ballad",
       "Dominic Behan"
@@ -665,9 +680,10 @@
     "title": "Dance Up The Sun",
     "author": "John Thompson / Nicole Murray",
     "tags": [
-      "English",
+      "Australian",
       "Myth & Legend",
-      "John Thompson"
+      "John Thompson",
+      "Nicole Murray"
     ]
   },
   {
@@ -730,6 +746,7 @@
     "title": "Do You Hear The People Sing?",
     "author": "Claude-Michel Schönberg / Alain Boublil",
     "tags": [
+      "French",
       "Rebel / Political",
       "Chorus-Heavy",
       "Claude-Michel Schönberg / Alain Boublil"
@@ -847,6 +864,7 @@
     "title": "El Fusilado",
     "author": "Chumbawamba",
     "tags": [
+      "English",
       "Rebel / Political",
       "Ballad",
       "Chumbawamba"
@@ -910,6 +928,15 @@
     ]
   },
   {
+    "title": "Farewell to Carlingford",
+    "author": "Tommy Makem",
+    "tags": [
+    "Irish",
+    "Maritime",
+    "Chorus-Heavy"
+    ]
+  },
+  {
     "title": "Farewell to Nova Scotia",
     "author": "Traditional",
     "tags": [
@@ -963,7 +990,8 @@
     "title": "The Final Trawl",
     "author": "Archie Fisher",
     "tags": [
-      "North American",
+      "Scottish",
+      "Maritime",
       "Archie Fisher"
     ]
   },
@@ -1145,7 +1173,7 @@
     "title": "The Green Man",
     "author": "John Thompson",
     "tags": [
-      "English",
+      "Australian",
       "Myth & Legend",
       "John Thompson"
     ]
@@ -1359,7 +1387,7 @@
     "title": "Home from the Sea",
     "author": "Phil Coulter",
     "tags": [
-      "Scottish",
+      "Irish",
       "Maritime",
       "Ballad",
       "Phil Coulter"
@@ -1513,7 +1541,7 @@
     "title": "Johnny Be Fair",
     "author": "Joyce Grenfell",
     "tags": [
-      "Irish",
+      "English",
       "Humorous",
       "Joyce Grenfell"
     ]
@@ -1542,6 +1570,7 @@
     "title": "Joli Rouge",
     "author": "The Dreadnoughts",
     "tags": [
+      "North American",
       "Maritime",
       "Drinking Song",
       "The Dreadnoughts"
@@ -1899,10 +1928,10 @@
     "title": "Men of the Sea",
     "author": "Donald McKay",
     "tags": [
-    "Scottish",
-    "Maritime",
-    "Contemporary Folk",
-    "Donald McKay"
+      "Scottish",
+      "Maritime",
+      "Contemporary Folk",
+      "Donald McKay"
     ]
   },
   {
@@ -2249,6 +2278,7 @@
     "title": "Part of the Union",
     "author": "Strawbs",
     "tags": [
+      "English",
       "Contemporary Folk",
       "Rebel / Political"
     ]
@@ -2332,12 +2362,12 @@
   },
   {
     "title": "Pride of the White Star Line",
-    "author": "Derek Gifford",
+    "author": "Robbie Sattin",
     "tags": [
-      "Irish",
+      "English",
       "Maritime",
       "Ballad",
-      "Derek Gifford"
+      "Robbie Sattin"
     ]
   },
   {
@@ -2918,6 +2948,7 @@
     "title": "There is Power in a Union",
     "author": "Billy Bragg",
     "tags": [
+      "English",
       "Rebel / Political",
       "Contemporary Folk"
     ]
@@ -3095,10 +3126,11 @@
   },
   {
     "title": "What will we do",
+    "author": "Traditional",
     "tags": [
-    "Irish",
-    "Chorus-Heavy",
-    "Hard Times"
+      "Irish",
+      "Chorus-Heavy",
+      "Hard Times"
     ]
   },
   {
@@ -3212,7 +3244,7 @@
     "title": "The Witch of the Westmorland",
     "author": "Archie Fisher",
     "tags": [
-      "English",
+      "Scottish",
       "Myth & Legend",
       "Ballad",
       "Archie Fisher"
@@ -3233,7 +3265,7 @@
     "title": "Working Man",
     "author": "Rita MacNeil",
     "tags": [
-      "English",
+      "North American",
       "Hard Times",
       "Ballad",
       "Rita MacNeil"
